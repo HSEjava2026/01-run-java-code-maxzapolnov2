@@ -1,7 +1,7 @@
 package ru.hse.lab1;
 /**
 * @author Запольнов Максим Александрович
-* @version 1.0
+* @version 1.1
 * @since 2026
 */
 public class Hello {
